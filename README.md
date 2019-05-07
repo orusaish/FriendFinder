@@ -10,6 +10,20 @@ I am utilizing Node & Express to handle the routing. My front end is built with 
 
 Friend Finder is deployed to Heroku:
 
+## Preview
+
+### Home Page
+
+<img width="1198" alt="homescreen" src="https://user-images.githubusercontent.com/46056178/57305579-4f16e900-70af-11e9-813c-cf53864b9b94.png">
+
+### Survey Page
+
+<img width="1155" alt="Pic1" src="https://user-images.githubusercontent.com/46056178/57305607-5b02ab00-70af-11e9-9142-82d76a0391d2.png">
+
+---
+
+<img width="1166" alt="Pic2" src="https://user-images.githubusercontent.com/46056178/57305649-69e95d80-70af-11e9-820d-b71e8b5d7213.png">
+
 ### NPM Packages:
 
 npm install express - https://www.npmjs.com/package/express
