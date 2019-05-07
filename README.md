@@ -8,7 +8,7 @@ For this project, I have built a compatibility-based “FriendFinder” applicat
 
 I am utilizing Node & Express to handle the routing. My front end is built with some CSS styling and Bootstrap Framework. This application is hosted on a Heroku server in turn effective creating my own API. Enjoy the application!
 
-Friend Finder is deployed to Heroku:
+Friend Finder is deployed to Heroku: https://afternoon-shore-84694.herokuapp.com/
 
 ## Preview
 
